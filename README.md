@@ -1,5 +1,5 @@
 # awesome-platzi
-> Una lista de 
+> Una lista de recursos para la comunidad de platzi
 
 Platzi es una plataforma de educación online efectiva
 
