@@ -7,9 +7,6 @@ Platzi es una plataforma de educación online efectiva
 
 - [Oficial](#oficial)
 - [Extensiones](#extensiones)
-  - [Mejorando Platzi](#mejorando-platzi)
-  - [Platzi Course Time](#platzi-course-time)
-  - [Platzi Course Duration](#platzi-course-duration)
 
 ## Oficial
 
