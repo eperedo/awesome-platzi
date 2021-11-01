@@ -5,11 +5,11 @@ Platzi es una plataforma de educación online efectiva
 
 ## Contenido
 
-- [Oficial](#official)
+- [Oficial](#oficial)
 - [Extensiones](#extensiones)
-  - [Mejorando Platzi](#mejorando-plazi)
+  - [Mejorando Platzi](#mejorando-platzi)
   - [Platzi Course Time](#platzi-course-time)
-  - [Platzi course duration](#platzi-course-duration)
+  - [Platzi Course Duration](#platzi-course-duration)
 
 ## Oficial
 
@@ -22,5 +22,5 @@ Platzi es una plataforma de educación online efectiva
 
 - [Mejorando Platzi](https://mejorando-platzi.netlify.app/) - Un conjunto de mejoras para platzi
 - [Platzi Course Time](https://chrome.google.com/webstore/detail/platzi-course-time/fljjoemlfjkpnneocihaobmnhhfjonle?hl=es) - Averigua cuanto dura tu curso
-- [Platzi course duration](https://chrome.google.com/webstore/detail/platzi-course-duration/fciaonikkngjkiapbommiobigggpeofi?hl=es) - Display course duration on Platzi platform
+- [Platzi Course Duration](https://chrome.google.com/webstore/detail/platzi-course-duration/fciaonikkngjkiapbommiobigggpeofi?hl=es) - Display course duration on Platzi platform
 
